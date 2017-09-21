@@ -1,2 +1,2 @@
 # FreeRTOS-Projects
-Various FreeRTOS projects wrote in Arduino IDE on PowerDue board. 
+Various FreeRTOS projects wrote in Arduino IDE tested on PowerDue board. 
